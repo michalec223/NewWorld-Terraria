@@ -1,0 +1,3 @@
+displayName = New World
+author = TheDreamer
+version = 0.1

@@ -1,0 +1,36 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	BasicSword: {
+		DisplayName: Basic Sword
+		Tooltip: ""
+	}
+
+	RobesOfAnorak: {
+		DisplayName: Robes Of Anorak
+		Tooltip: "'His robes were embroidered with silver stars and moons that glowed and twinkled as if they were real'"
+	}
+
+	YellowSign: {
+		DisplayName: Yellow Sign
+		Tooltip:
+			'''
+			Along the shore the cloud waves break,
+			The twin suns sink behind the lake,
+			The shadows lengthen
+			In Carcosa.
+			Strange is the night where black stars rise,
+			And strange moons circle through the skies
+			But stranger still is
+			Lost Carcosa.
+			Songs that the Hyades shall sing,
+			Where flap the tatters of the King,
+			Must die unheard in
+			Dim Carcosa.
+			Song of my soul, my voice is dead;
+			Die thou, unsung, as tears unshed
+			Shall dry and die in
+			Lost Carcosa.
+			'''
+	}
+}
